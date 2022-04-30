@@ -1,0 +1,23 @@
+{
+  "name": "Reprograma-projeto1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "starty": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rosiene10/Reprograma-projeto1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rosiene10/Reprograma-projeto1/issues"
+  },
+  "homepage": "https://github.com/Rosiene10/Reprograma-projeto1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
